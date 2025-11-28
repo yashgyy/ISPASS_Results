@@ -1,0 +1,6 @@
+# started on Mon Nov 24 10:38:34 2025
+
+109,,fp_ret_sse_avx_ops.all,630333,10.00,,
+37,,fp_ret_sse_avx_ops.div_flops,887994,21.00,,
+310,,fp_ret_sse_avx_ops.mult_flops,3767768,36.00,,
+292,,fp_ret_sse_avx_ops.add_sub_flops,1409392,12.00,,

@@ -1,0 +1,6 @@
+# started on Wed Nov  5 17:26:22 2025
+
+381082338,,cpu_atom/icache.misses/,37330357862,23.00,,
+237715187424,,cpu_atom/icache.accesses/,37330357862,23.00,,
+<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+1071587592,,cpu_core/L1-dcache-load-misses/,119395842681,76.00,,

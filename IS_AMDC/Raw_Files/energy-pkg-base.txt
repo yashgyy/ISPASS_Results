@@ -1,0 +1,5 @@
+Krishna 11380 Joules
+Ryzen 6588 Joules
+
+power/energy-pkg
+

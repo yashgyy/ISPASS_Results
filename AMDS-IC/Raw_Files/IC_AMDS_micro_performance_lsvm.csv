@@ -1,0 +1,14 @@
+# started on Wed Oct 29 22:02:13 2025
+
+57177683,,cpu_atom/icache.misses/,1781206170,6.00,,
+28411978072,,cpu_atom/icache.accesses/,1781206170,6.00,,
+43140370,,cpu_core/L1-dcache-load-misses/,24203064132,93.00,,
+895904880,,cpu_core/l2_rqsts.miss/,143519777877,47.00,,
+4578335510,,cpu_core/l2_rqsts.references/,143519777877,47.00,,
+238524640,,cpu_core/LLC-load-misses/,143519777877,47.00,89.55,of all LL-cache accesses
+266361123,,cpu_core/LLC-loads/,143519777877,47.00,,
+10442799,,cpu_core/l2_rqsts.code_rd_miss/,144413235245,48.00,,
+267129716,,cpu_core/l2_rqsts.demand_data_rd_miss/,144413235245,48.00,,
+552209627632,,cpu_core/L1-dcache-loads/,144413235245,48.00,,
+
+

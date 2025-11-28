@@ -1,0 +1,6 @@
+# started on Sun Nov  2 07:09:34 2025
+
+198959351644,,cpu_atom/branch-instructions/,82651994136,32.00,,
+259283368618,,cpu_core/branch-instructions/,169728548266,67.00,,
+51748485,,cpu_atom/branch-misses/,82651994136,32.00,0.03,of all branches
+120751204,,cpu_core/branch-misses/,169728548266,67.00,0.05,of all branches

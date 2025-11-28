@@ -1,0 +1,15 @@
+# started on Wed Oct 29 07:22:59 2025
+
+33906748,,L1-icache-load-misses,48150543901,100.00,,
+33978820031,,icache_64b.iftag_hit,48150543901,100.00,,
+33906748,,icache_64b.iftag_miss,48150543901,100.00,,
+1311709033,,L1-dcache-load-misses,48150543901,100.00,,
+2147158,,l2_rqsts.miss,41009748,100.00,,
+3107630,,l2_rqsts.references,41009748,100.00,,
+70155,,LLC-load-misses,41009748,100.00,36.72,of all LL-cache accesses
+191045,,LLC-loads,41009748,100.00,,
+2136408,,l2_rqsts.code_rd_miss,46769017,100.00,,
+224566,,l2_rqsts.demand_data_rd_miss,46769017,100.00,,
+12695076,,L1-dcache-loads,46769017,100.00,,
+
+

@@ -1,0 +1,6 @@
+# started on Sat Nov  1 21:09:15 2025
+
+2130293348412,,cpu_atom/instructions/,54672109658,18.00,3.10,insn per cycle
+2098281292768,,cpu_core/instructions/,244785393294,81.00,2.80,insn per cycle
+687470055503,,cpu_atom/cpu-cycles/,54672109658,18.00,,
+749522490740,,cpu_core/cpu-cycles/,244785393294,81.00,,
